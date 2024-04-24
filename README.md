@@ -1,2 +1,1 @@
-# kubectlext
-Kubectl plugin
+# Kubectl extension
